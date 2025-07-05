@@ -1,6 +1,6 @@
 ## Hi there 👋
-- Graduated from RS School JavaScript/Front-end 2024Q4 Stage#1 in 2025 [Certificate of Completion](https://app.rs.school/certificate/9ysbtzvn)
-<!--
+- Graduated from RS School JavaScript/Front-end 2024Q4 Stage#1 in 2025 [Certificate of Completion](https://app.rs.school/certificate/m4tyuckz)
+
 **Locust13region/Locust13region** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
