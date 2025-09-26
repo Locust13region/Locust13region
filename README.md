@@ -4,4 +4,5 @@
 
 
 - Graduated from RS School React 2025 Q3 in 2025 [Certificate of Completion](https://app.rs.school/certificate/cqppoqho)
-  [cqppoqho.pdf](https://github.com/user-attachments/files/22554690/cqppoqho.pdf)
+  ![certificate React](https://github.com/user-attachments/assets/c8c00cc6-ee4b-4f05-a65b-53133e96d7f2)
+
